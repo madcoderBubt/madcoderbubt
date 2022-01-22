@@ -1,15 +1,14 @@
 ## Hi there 👋
 
-![.Net Core with VS19](/vs19-core.png ".Net Core with VS19")
-
-``` csharp
-Console.WriteLine("Welcome!");
-```
-
 ### I'm Sudhananda Biswas
 
 #### A Jr. Software Engineer
 
+![.Net Core with VS19](/vs19-core.png ".Net Core with VS19")
+
+``` csharp
+Console.WriteLine("Welcome to my Github!");
+```
 
 <table>
     <tr><th>Name</th><td>Sudhananda Biswas</td><td rowspan="4"> <img src="/intel.png" alt="intel" /> </td></tr>
