@@ -3,6 +3,15 @@
 ### I'm Sudhananda Biswas
 
 #### A Jr. Software Engineer
+> Full-Stack Developer @[Global Software Architects](http://globalsoftwarearchitects.net/)
+
+Working on:
+- ASP.NET MVC, ADO.NET, T-SQL(MS-SQL Server), Angular 6+, Rest API, Git
+- C#, JavaScript, TypeScript, T-SQL
+- VSCode, VS Community 2019+, SSMS, Postman
+
+ Currently Learning ***[MicroService with Docker](https://github.com/madcoderBubt/AweasomeMicroService)***
+
 <!--
 ![madcoderBubt's GitHub stats](https://github-readme-stats.vercel.app/api?username=madcoderBubt&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madcoderBubt&layout=compact)](https://github.com/madcoderBubt/github-readme-stats)
