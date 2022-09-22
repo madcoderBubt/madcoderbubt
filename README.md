@@ -4,10 +4,12 @@
 
 #### A Jr. Software Engineer
 > Full-Stack Developer @[Global Software Architects](http://globalsoftwarearchitects.net/)
+> - [x] expertise at RDBMS(TSQL), Back-end(C#), Front-end(JS), 
 
 Working on:
-- ASP.NET MVC, ADO.NET, T-SQL(MS-SQL Server), Angular 6+, Rest API, Git
-- C#, JavaScript, TypeScript, T-SQL
+- Core Skills: ASP.NET MVC, ADO.NET, T-SQL(MS-SQL Server), Angular 6+, Rest API, Git, Node.js
+- Languages: C#, JavaScript, TypeScript, SQL, C++, HTML5/CSS3
+- Addtional Skills: RDLC Reporting Service, Office Interop, HiQPDF, KendoGrid, Material UI
 - VSCode, VS Community 2019+, SSMS, Postman
 
  Currently Learning ***[MicroService with Docker](https://github.com/madcoderBubt/AweasomeMicroService)***
