@@ -6,7 +6,7 @@
 > Full-Stack Developer @[Global Software Architects](http://globalsoftwarearchitects.net/)
 > - [x] expertise at RDBMS(TSQL), Back-end(C#), Front-end(JS), 
 
-Working on:
+Area of My Expertise:
 - Core Skills: ASP.NET MVC, ADO.NET, T-SQL(MS-SQL Server), Angular 6+, Rest API, Git, Node.js
 - Languages: C#, JavaScript, TypeScript, SQL, C++, HTML5/CSS3
 - Addtional Skills: RDLC Reporting Service, Office Interop, HiQPDF, KendoGrid, Material UI
@@ -25,7 +25,7 @@ Console.WriteLine("Welcome to my Github!");
 ```
 
 <table>
-    <tr><th>Name</th><td>Sudhananda Biswas</td><td rowspan="5"> <img src="/1234.jpg" style="max-width: 100px;width:100px" width="100" alt="intel" /> </td></tr>
+    <tr><th>Name</th><td>Sudhananda Biswas</td><td rowspan="5"> <img src="/1234.jpg" style="max-width: 400px;width:350px"  alt="Coding is fun when there is bugs." /> </td></tr>
     <tr><th>Email</th><td><a href="mailto:shbsovon@gmail.com">shbsovon@gmail.com</a></td></tr>
     <tr><th>Skype</th><td><a href="skype:shbsovon">Shbsovon</a></td></tr>
     <tr><th>Website</th><td><a href="https://www.linkedin.com/in/madcoderbubt/" >Linked In</a></td></tr>
