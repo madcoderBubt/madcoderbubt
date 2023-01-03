@@ -28,8 +28,8 @@ Console.WriteLine("Welcome to my Github!");
     <tr><th>Name</th><td>Sudhananda Biswas</td><td rowspan="5"> <img src="/1234.jpg" style="max-width: 400px;width:350px"  alt="Coding is fun when there is bugs." /> </td></tr>
     <tr><th>Email</th><td><a href="mailto:shbsovon@gmail.com">shbsovon@gmail.com</a></td></tr>
     <tr><th>Skype</th><td><a href="skype:shbsovon">Shbsovon</a></td></tr>
-    <tr><th>Website</th><td><a href="https://www.linkedin.com/in/madcoderbubt/" >Linked In</a></td></tr>
-    <tr><th>Website</th><td><a href="https://madcoderbubt.github.io/MadCoderPersonal/" >My Website</a></td></tr>
+    <tr><th>LinkedIn</th><td>@<a href="https://www.linkedin.com/in/madcoderbubt/" >madcoderbubt</a></td></tr>
+    <tr><th>Website</th><td><a href="https://madcoderbubt.github.io/MadCoderPersonal/" >Visit My Website</a></td></tr>
 </table>
 
 
