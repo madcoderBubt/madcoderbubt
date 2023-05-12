@@ -2,7 +2,7 @@
 
 ### I'm Sudhananda Biswas
 
-#### A Jr. Software Engineer
+#### A mid-level Software Engineer
 > Full-Stack Developer @[Global Software Architects](http://globalsoftwarearchitects.net/)
 > - [x] expertise at RDBMS(TSQL), Back-end(C#), Front-end(JS), 
 
