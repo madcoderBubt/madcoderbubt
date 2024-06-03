@@ -7,12 +7,19 @@
 > - [x] expertise at RDBMS(TSQL), Back-end(C#), Front-end(JS), 
 
 Area of My Expertise:
-- Core Skills: ASP.NET MVC, ADO.NET, T-SQL(MS-SQL Server), Angular 6+, Rest API, Git, Node.js
+- Core Skills: .NET Core, ASP.NET MVC, ADO.NET, T-SQL(MS-SQL Server), Angular 6+, Rest API, Git, Node.js, EF(ORM)
 - Languages: C#, JavaScript, TypeScript, SQL, C++, HTML5/CSS3
-- Addtional Skills: RDLC Reporting Service, Office Interop, HiQPDF, KendoGrid, Material UI
+- Additional Skills: RDLC Reporting Service, Office Interop, HiQPDF, KendoGrid, Material UI, PostGreSQL, Mediator(CQRS), Docker, Dapper(ORM)
 - VSCode, VS Community 2019+, SSMS, Postman
 
  Currently Learning ***[MicroService with Docker](https://github.com/madcoderBubt/AspNetMicroservice)***
+
+ Live projects I've worked on:
+ - Event Management System For [Strictly FX](https://www.strictlyfx.com/) & [Event One FX](https://e1fx.com)
+ - Route Optimization Service For [Autoguard client: AHKhan & Co. Ltd.](https://www.autoguardtracking.com/)
+ - Warehouse Management System For US-based Tobacco Factory
+ - POS System For Local clients (Desktop App)
+ - Apartment Management System For [LivingHub Technology](https://livingHub.tech)
 
 <!--
 ![madcoderBubt's GitHub stats](https://github-readme-stats.vercel.app/api?username=madcoderBubt&show_icons=true&theme=radical) 
