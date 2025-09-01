@@ -3,8 +3,12 @@
 ### I'm Sudhananda Biswas
 
 #### A mid-level Software Engineer
-> Full-Stack Developer @[Global Software Architects](http://globalsoftwarearchitects.net/)
-> - [x] expertise at RDBMS(TSQL), Back-end(C#), Front-end(JS), 
+> Software Developer @[COBAIT Bangladesh Ltd](https://cobait.com/)
+> 
+> Former Software Engineer @[Global Software Architects](http://globalsoftwarearchitects.net/)
+>
+- [x] expertise at RDBMS(TSQL), Back-end(C#), Front-end(JS),
+- [x] Other Repository: [Shbsovon](http://github.com/shbsovon)
 
 Area of My Expertise:
 - Core Skills: .NET Core, ASP.NET MVC, ADO.NET, T-SQL(MS-SQL Server), Angular 6+, Rest API, Git, Node.js, EF(ORM)
