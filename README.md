@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=220&section=header&text=Sudhananda%20Biswas&fontSize=42&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20%7C%20.NET%20Core%20%26%20Angular%20Specialist&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+<img src="./banner.svg" width="100%" alt="Sudhananda Biswas - Full Stack Software Engineer" />
+
+<br/><br/>
 
 <!-- Dynamic Typing Subtitle -->
 <a href="https://portfolio-zeta-six-aw591ztrru.vercel.app/">
@@ -143,18 +145,25 @@ flowchart LR
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/madcoderBubt">
-        <img src="https://github-readme-stats.vercel.app/api?username=madcoderBubt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Sudhananda's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=madcoderBubt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Sudhananda's GitHub Stats" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/madcoderBubt">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madcoderBubt&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madcoderBubt&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
 
 <br/>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/madcoderBubt">
+  <img src="https://streak-stats.demolab.com/?user=madcoderBubt&theme=tokyonight&hide_border=true" width="85%" alt="Sudhananda's GitHub Streak" />
+</a>
+
+<br/><br/>
 
 <!-- LeetCode Stats Card -->
 <a href="https://leetcode.com/madcoderBubt/">
